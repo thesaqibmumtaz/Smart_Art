@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T07:33:40.163Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="viq5bDDiXzU5My4N7OqX" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T07:34:59.418Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kFS9t7ylbBGJvzIuX4xc" version="21.7.5" type="github">
   <diagram name="Page-1" id="BqLjTV1lZtpxf5OzmQXk">
     <mxGraphModel dx="2947" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,10 +24,10 @@
             <mxPoint x="-1241.0869565217392" y="528.0434782608697" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-8" value="&lt;div&gt;YES&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-8" value="&lt;div&gt;YES&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-1281" y="608" as="targetPoint" />
-            <mxPoint x="-1281" y="548" as="sourcePoint" />
+            <mxPoint x="-1281" y="620" as="targetPoint" />
+            <mxPoint x="-1280" y="548" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KuKBmV5f7Q5fJ6iNIN6v-9" target="KuKBmV5f7Q5fJ6iNIN6v-11">
@@ -127,9 +127,10 @@
             <mxPoint x="-1582.08" y="314.0200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KuKBmV5f7Q5fJ6iNIN6v-39" target="KuKBmV5f7Q5fJ6iNIN6v-6">
+        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1282" y="520" as="targetPoint" />
+            <mxPoint x="-1283" y="440" as="sourcePoint" />
+            <mxPoint x="-1282" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-39" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Transformer Models&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Clip: Image-Text : VaLM&lt;br&gt;+ DeiT: ImageNet : ViT&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -267,14 +268,20 @@
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-83" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-1595" y="1061" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KuKBmV5f7Q5fJ6iNIN6v-84" target="KuKBmV5f7Q5fJ6iNIN6v-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-84" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-985" y="670" width="30" height="30" as="geometry" />
+          <mxGeometry x="-985" y="659" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-85" value="&lt;b&gt;END&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1518" y="1061" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-87" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
           <mxGeometry x="-1447" y="938" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KuKBmV5f7Q5fJ6iNIN6v-88" value="&lt;b&gt;END&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="659" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
